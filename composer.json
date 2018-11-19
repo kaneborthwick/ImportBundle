@@ -1,0 +1,21 @@
+{
+    "name": "towersystems/import-bundle",
+    "type": "library",
+    "description": "Zend Expressive ; Import Resources in an Application",
+    "authors": [
+        {
+            "name": "kane",
+            "email": "kane.borthwick@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.1",
+        "towersystems/resource": "^1.0.0",
+        "towersystems/import": "dev-master"
+    },
+    "autoload": {
+        "psr-4": { "ImportBundle\\": "src\\" }
+    }
+}
