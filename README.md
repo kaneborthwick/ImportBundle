@@ -1,1 +1,1 @@
-composer require towersystems/resource-bundle
+composer require towersystems/import-bundle
