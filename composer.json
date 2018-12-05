@@ -12,7 +12,7 @@
     "prefer-stable": true,
     "require": {
         "php": "^7.1",
-        "towersystems/resource": "^1.0.0",
+        "towersystems/resource": "dev-master@dev",
         "towersystems/import": "dev-master"
     },
     "autoload": {
